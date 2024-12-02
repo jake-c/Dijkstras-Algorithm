@@ -1,1 +1,1 @@
-Dijkstra's Algorithm Implementation!
+Dijkstra's Shortest Path Algorithm Implementation!
